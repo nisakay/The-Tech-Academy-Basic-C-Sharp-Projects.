@@ -40,6 +40,12 @@ namespace DailyReport
 
             Console.WriteLine("How many hours did you study today?");
             byte HoursWorked = Convert.ToByte(Console.ReadLine());
+
+            string thankYou = "Thank you for your answers. An Instructor will respond to this shortly. Have a great day!";
+            Console.WriteLine(thankYou);
+            Console.ReadLine();
+
+
         }
     }
 }
