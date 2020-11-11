@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\bin\Debug\netcoreapp3.1\UserMath.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\bin\Debug\netcoreapp3.1\UserMath.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\bin\Debug\netcoreapp3.1\UserMath.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\bin\Debug\netcoreapp3.1\UserMath.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\bin\Debug\netcoreapp3.1\UserMath.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\bin\Debug\netcoreapp3.1\UserMath.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\obj\Debug\netcoreapp3.1\UserMath.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\obj\Debug\netcoreapp3.1\UserMath.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\obj\Debug\netcoreapp3.1\UserMath.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\obj\Debug\netcoreapp3.1\UserMath.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\obj\Debug\netcoreapp3.1\UserMath.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\obj\Debug\netcoreapp3.1\UserMath.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\UserMath\UserMath\obj\Debug\netcoreapp3.1\UserMath.genruntimeconfig.cache
