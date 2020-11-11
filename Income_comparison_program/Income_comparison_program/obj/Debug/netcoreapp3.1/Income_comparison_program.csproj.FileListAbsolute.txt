@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\bin\Debug\netcoreapp3.1\Income_comparison_program.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\bin\Debug\netcoreapp3.1\Income_comparison_program.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\bin\Debug\netcoreapp3.1\Income_comparison_program.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\bin\Debug\netcoreapp3.1\Income_comparison_program.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\bin\Debug\netcoreapp3.1\Income_comparison_program.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\bin\Debug\netcoreapp3.1\Income_comparison_program.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\obj\Debug\netcoreapp3.1\Income_comparison_program.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\obj\Debug\netcoreapp3.1\Income_comparison_program.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\obj\Debug\netcoreapp3.1\Income_comparison_program.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\obj\Debug\netcoreapp3.1\Income_comparison_program.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\obj\Debug\netcoreapp3.1\Income_comparison_program.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\obj\Debug\netcoreapp3.1\Income_comparison_program.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Income_comparison_program\Income_comparison_program\obj\Debug\netcoreapp3.1\Income_comparison_program.genruntimeconfig.cache

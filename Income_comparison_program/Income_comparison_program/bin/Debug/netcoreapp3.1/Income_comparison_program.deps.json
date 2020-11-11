@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Income_comparison_program/1.0.0": {
+        "runtime": {
+          "Income_comparison_program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Income_comparison_program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
