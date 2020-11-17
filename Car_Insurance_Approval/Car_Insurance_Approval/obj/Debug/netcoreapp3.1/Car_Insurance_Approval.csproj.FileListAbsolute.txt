@@ -1,0 +1,12 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\netcoreapp3.1\Car_Insurance_Approval.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\netcoreapp3.1\Car_Insurance_Approval.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\netcoreapp3.1\Car_Insurance_Approval.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\netcoreapp3.1\Car_Insurance_Approval.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\netcoreapp3.1\Car_Insurance_Approval.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\bin\Debug\netcoreapp3.1\Car_Insurance_Approval.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\netcoreapp3.1\Car_Insurance_Approval.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\netcoreapp3.1\Car_Insurance_Approval.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\netcoreapp3.1\Car_Insurance_Approval.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\netcoreapp3.1\Car_Insurance_Approval.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\netcoreapp3.1\Car_Insurance_Approval.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Car_Insurance_Approval\Car_Insurance_Approval\obj\Debug\netcoreapp3.1\Car_Insurance_Approval.genruntimeconfig.cache
