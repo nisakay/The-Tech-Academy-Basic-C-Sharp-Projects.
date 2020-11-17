@@ -10,3 +10,4 @@ C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcorea
 C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.dll
 C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.pdb
 C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.genruntimeconfig.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Loops\Loops\obj\Debug\netcoreapp3.1\Loops.csprojAssemblyReference.cache
