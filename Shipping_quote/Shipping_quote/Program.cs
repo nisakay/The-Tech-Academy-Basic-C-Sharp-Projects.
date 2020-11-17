@@ -28,13 +28,13 @@ namespace Shipping_quote
             Console.WriteLine("Please enter the package lenght:");
             int lenght = Convert.ToInt32(Console.ReadLine());
 
-            if (width > 50 && lenght > 50 && height > 50)
+            if (width + lenght + height > 50)
             {
                 Console.WriteLine("Package too big to be shipped via Package Express.");
                 return;
             }
 
-            double total = height * width * lenght * weight / 100;
+            double total = height + width + lenght * weight / 100;
             Console.WriteLine("Your estimated total for shipping this package is :\n$" + total);
             Console.ReadLine();
         }
