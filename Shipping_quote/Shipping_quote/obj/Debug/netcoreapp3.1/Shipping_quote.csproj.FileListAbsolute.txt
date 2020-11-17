@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\bin\Debug\netcoreapp3.1\Shipping_quote.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\bin\Debug\netcoreapp3.1\Shipping_quote.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\bin\Debug\netcoreapp3.1\Shipping_quote.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\bin\Debug\netcoreapp3.1\Shipping_quote.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\bin\Debug\netcoreapp3.1\Shipping_quote.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\bin\Debug\netcoreapp3.1\Shipping_quote.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\obj\Debug\netcoreapp3.1\Shipping_quote.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\obj\Debug\netcoreapp3.1\Shipping_quote.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\obj\Debug\netcoreapp3.1\Shipping_quote.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\obj\Debug\netcoreapp3.1\Shipping_quote.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\obj\Debug\netcoreapp3.1\Shipping_quote.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\obj\Debug\netcoreapp3.1\Shipping_quote.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\Shipping_quote\Shipping_quote\obj\Debug\netcoreapp3.1\Shipping_quote.genruntimeconfig.cache
