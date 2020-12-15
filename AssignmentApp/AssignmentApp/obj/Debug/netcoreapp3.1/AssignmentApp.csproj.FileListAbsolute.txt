@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\bin\Debug\netcoreapp3.1\AssignmentApp.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\bin\Debug\netcoreapp3.1\AssignmentApp.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\bin\Debug\netcoreapp3.1\AssignmentApp.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\bin\Debug\netcoreapp3.1\AssignmentApp.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\bin\Debug\netcoreapp3.1\AssignmentApp.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\bin\Debug\netcoreapp3.1\AssignmentApp.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\obj\Debug\netcoreapp3.1\AssignmentApp.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\obj\Debug\netcoreapp3.1\AssignmentApp.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\obj\Debug\netcoreapp3.1\AssignmentApp.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\obj\Debug\netcoreapp3.1\AssignmentApp.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\obj\Debug\netcoreapp3.1\AssignmentApp.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\obj\Debug\netcoreapp3.1\AssignmentApp.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\AssignmentApp\AssignmentApp\obj\Debug\netcoreapp3.1\AssignmentApp.genruntimeconfig.cache
