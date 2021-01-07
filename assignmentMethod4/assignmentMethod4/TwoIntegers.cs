@@ -6,11 +6,14 @@ namespace assignmentMethod4
 {
     public class TwoIntegers
     {
-        public static void Addition(int num1, int num2)
+        public void Addition(int num1, int num2)
         {
-            int sum = 0;
-            sum = num1 + 5;
+     
+            num1 = num1 + 5;
+
+            Console.WriteLine(num2);
 
         }
     }
 }
+   

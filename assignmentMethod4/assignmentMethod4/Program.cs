@@ -11,11 +11,10 @@ namespace assignmentMethod4
             TwoIntegers a = new TwoIntegers();
 
 
-            int sum = a.Addition(12);
-            int num2 = a.Addition(10);
+            a.Addition(12, 10);
 
-            Console.WriteLine(sum);
-            Console.WriteLine(num2);
+            a.Addition(num1: 5, num2: 10);
+
         }
     }
 }
