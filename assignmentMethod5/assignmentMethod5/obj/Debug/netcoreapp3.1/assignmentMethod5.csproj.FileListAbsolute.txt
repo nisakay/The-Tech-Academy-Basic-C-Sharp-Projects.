@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\bin\Debug\netcoreapp3.1\assignmentMethod5.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\bin\Debug\netcoreapp3.1\assignmentMethod5.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\bin\Debug\netcoreapp3.1\assignmentMethod5.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\bin\Debug\netcoreapp3.1\assignmentMethod5.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\bin\Debug\netcoreapp3.1\assignmentMethod5.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\bin\Debug\netcoreapp3.1\assignmentMethod5.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\obj\Debug\netcoreapp3.1\assignmentMethod5.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\obj\Debug\netcoreapp3.1\assignmentMethod5.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\obj\Debug\netcoreapp3.1\assignmentMethod5.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\obj\Debug\netcoreapp3.1\assignmentMethod5.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\obj\Debug\netcoreapp3.1\assignmentMethod5.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\obj\Debug\netcoreapp3.1\assignmentMethod5.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\assignmentMethod5\assignmentMethod5\obj\Debug\netcoreapp3.1\assignmentMethod5.genruntimeconfig.cache
