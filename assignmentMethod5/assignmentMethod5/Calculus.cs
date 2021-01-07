@@ -12,9 +12,10 @@ namespace assignmentMethod5
             Console.WriteLine(x);
         }
 
-        public int Substraction(int c, int y)
+        public void Addition(out int x )
         {
-            Console.WriteLine();
+            int temp = 5;
+            x = temp;
         }
     }
 }
