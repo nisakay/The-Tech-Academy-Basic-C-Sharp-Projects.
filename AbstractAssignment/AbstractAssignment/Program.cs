@@ -6,7 +6,11 @@ namespace AbstractAssignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Employee person = new Employee();
+            person.FirstName = "Sample";
+            person.LastName = "Student";
+            person.SayName();
+            Console.ReadLine();
         }
     }
 }
