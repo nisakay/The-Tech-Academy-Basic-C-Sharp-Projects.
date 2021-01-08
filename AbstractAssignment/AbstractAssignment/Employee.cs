@@ -19,10 +19,10 @@ namespace AbstractAssignment
             throw new NotImplementedException();
         }
 
-        public static Person operator == (Person person, ID)
+        public static bool operator ==(Employee emp1, Employee emp2)
         {
-            person.Person.Equals(ID);
-            return person;
+            return emp1.ID == emp2.ID;
         }
     }
 }
+ 
