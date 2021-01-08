@@ -7,6 +7,7 @@ namespace AbstractAssignment
         static void Main(string[] args)
         {
             Employee person = new Employee();
+
             person.FirstName = "Sample";
             person.LastName = "Student";
             person.SayName();
