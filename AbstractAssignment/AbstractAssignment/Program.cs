@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 
 namespace AbstractAssignment
 {
@@ -6,7 +7,9 @@ namespace AbstractAssignment
     {
         static void Main(string[] args)
         {
-            Employee person = new Employee();
+            Employee<string> person = new Employee<string>();
+
+            person.Things = new List<string>() { "Shoes", "Laptop", "Pen" }; ;
 
             person.FirstName = "Sample";
             person.LastName = "Student";
