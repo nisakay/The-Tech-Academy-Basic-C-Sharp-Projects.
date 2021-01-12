@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\netcoreapp3.1\EnumAssignment.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\netcoreapp3.1\EnumAssignment.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\netcoreapp3.1\EnumAssignment.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\netcoreapp3.1\EnumAssignment.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\netcoreapp3.1\EnumAssignment.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\bin\Debug\netcoreapp3.1\EnumAssignment.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\netcoreapp3.1\EnumAssignment.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\netcoreapp3.1\EnumAssignment.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\netcoreapp3.1\EnumAssignment.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\netcoreapp3.1\EnumAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\netcoreapp3.1\EnumAssignment.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\netcoreapp3.1\EnumAssignment.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\EnumAssignment\EnumAssignment\obj\Debug\netcoreapp3.1\EnumAssignment.genruntimeconfig.cache
