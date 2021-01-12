@@ -4,8 +4,8 @@ using System.Text;
 
 namespace AbstractAssignment
 {
-    interface IQuittable
-    {
-        public void Quit(Employee person);
-    }
+    //interface IQuittable
+    //{
+    //    public void Quit(Employee person);
+    //}
 }
