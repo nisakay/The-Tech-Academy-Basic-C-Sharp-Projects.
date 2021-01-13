@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.genruntimeconfig.cache
