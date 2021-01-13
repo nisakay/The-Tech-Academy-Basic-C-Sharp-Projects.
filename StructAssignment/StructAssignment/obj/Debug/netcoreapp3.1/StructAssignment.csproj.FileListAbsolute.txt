@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\netcoreapp3.1\StructAssignment.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\netcoreapp3.1\StructAssignment.genruntimeconfig.cache
