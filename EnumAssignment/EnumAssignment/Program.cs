@@ -8,11 +8,10 @@ namespace EnumAssignment
         {
             Week day = new Week();
 
-            foreach(string day in day)
                 try
                 {
                         Console.WriteLine("enter the current day of the week.", day);
-                        Console.ReadLine();
+                        Week.DaysOfTheWeek answer = (Week.DaysOfTheWeek)Enum.Parse(typeof(Week.DaysOfTheWeek), Console.ReadLine());
                 }
                 catch (ArgumentException)
                 {
