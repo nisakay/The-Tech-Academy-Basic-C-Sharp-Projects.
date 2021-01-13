@@ -4,13 +4,13 @@ using System.Text;
 
 namespace AbstractAssignment
 {
-    public class Employee<T>: Person, ///IQuittable
+    public class Employee<T>: Person ///IQuittable
     {
         public List<T> Things { get; set; }
 
         public int ID { get; set; }
 
-        public void SayName()
+        public void SayName(string FirstName, string LastName, int ID)
         {
             Console.WriteLine("Name:{0} {1}", FirstName, LastName);
             Console.WriteLine("ID:{0}", ID);
