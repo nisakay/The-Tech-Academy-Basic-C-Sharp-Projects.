@@ -1,0 +1,13 @@
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\bin\Debug\netcoreapp3.1\VariableAssignment.exe
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\bin\Debug\netcoreapp3.1\VariableAssignment.deps.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\bin\Debug\netcoreapp3.1\VariableAssignment.runtimeconfig.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\bin\Debug\netcoreapp3.1\VariableAssignment.runtimeconfig.dev.json
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\bin\Debug\netcoreapp3.1\VariableAssignment.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\bin\Debug\netcoreapp3.1\VariableAssignment.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\obj\Debug\netcoreapp3.1\VariableAssignment.csprojAssemblyReference.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\obj\Debug\netcoreapp3.1\VariableAssignment.AssemblyInfoInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\obj\Debug\netcoreapp3.1\VariableAssignment.AssemblyInfo.cs
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\obj\Debug\netcoreapp3.1\VariableAssignment.csproj.CoreCompileInputs.cache
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\obj\Debug\netcoreapp3.1\VariableAssignment.dll
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\obj\Debug\netcoreapp3.1\VariableAssignment.pdb
+C:\Users\lione\OneDrive\Desktop\Basic_C#_Programs\VariableAssignment\VariableAssignment\obj\Debug\netcoreapp3.1\VariableAssignment.genruntimeconfig.cache
