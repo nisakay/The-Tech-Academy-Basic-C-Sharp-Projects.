@@ -34,7 +34,7 @@ namespace Shipping_quote
                 return;
             }
 
-            double total = height + width + lenght * weight / 100;
+            double total = (height * width * length) * weight / 100;
             Console.WriteLine("Your estimated total for shipping this package is :\n$" + total);
             Console.ReadLine();
         }
