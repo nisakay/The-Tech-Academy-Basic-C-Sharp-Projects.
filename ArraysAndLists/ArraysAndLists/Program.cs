@@ -1,112 +1,30 @@
 ﻿using System;
 using System.Collections.Generic;
 
-    class Program
+class Program
+{
+    static void Main()
     {
-        static void Main()
-        {
 
 
-        string[] cars = { "Volvo", "BMW", "Ford" };
-        bool isGuessed = false;
+        //Create a one-dimensional Array of strings
+        string[] nameArray = new string[] { "Isaac", "Chris", "Marc" };
+            string index = Console.ReadLine();
+            Console.WriteLine("Select a name "+nameArray[index]);
 
-        do
-        {
-            Console.WriteLine("select an index of the Array: ");
-            int cars2 = Convert.ToInt32(Console.ReadLine());
+        //Create a one-dimensional Array of integer
+        int[] numArray = new int[] {2,8,60,87,23,103};
+        int index = Console.ReadLine();
+        Console.WriteLine("Select a number " + numArray[index]);
 
-            if (cars2 == 0)
-            {
-                Console.WriteLine("You have selected: \t" + cars[0]);
-            }
-
-            if (cars2 == 1)
-            {
-                Console.WriteLine("You have selected: \t" + cars[1]);
-            }
-
-            if (cars2 == 2)
-            {
-                Console.WriteLine("You have selected: \t" + cars[2]);
-            }
-
-            else
-            {
-                Console.WriteLine("This index does not exist");
-            }
-        }
-
-        while (!isGuessed);
-
+        List<string> intList = new List<string>();
+        intList.Add("I'm a software developer");
+        intList.Add("lebron James");
+        intList.Remove("Michael Jordan);
+        Console.WriteLine("Select a sentence "+intList[0]);
         Console.ReadLine();
-
-        //==================================Integer Array==================
-
-        //int[] numbers= { 25, 20, 60 };
-        //bool isGuessed = false;
-
-        //do
-        //{
-        //    Console.WriteLine("select an index of the Array: ");
-        //    int numbers2 = Convert.ToInt32(Console.ReadLine());
-
-        //    if (numbers2 == 0)
-        //    {
-        //        Console.WriteLine("You have selected: \t" + numbers[0]);
-        //    }
-
-        //    if (numbers2 == 1)
-        //    {
-        //        Console.WriteLine("You have selected: \t" + numbers[1]);
-        //    }
-
-        //    if (numbers2 == 2)
-        //    {
-        //        Console.WriteLine("You have selected: \t" + numbers[2]);
-        //    }
-
-        //    else
-        //    {
-        //        Console.WriteLine("This index does not exist");
-        //    }
-        //}
-
-        //while (!isGuessed);
-
-        //Console.ReadLine();
-        //==============================LIST ARRAY=====================
-        //List<string> stringList = new List<string>();
-        //stringList.Add("Lebron");
-        //stringList.Add("MJ");
-        //bool isGuessed = false;
-
-        //do
-        //{
-        //    Console.WriteLine("select an index of the Array: ");
-        //    int numbers2 = Convert.ToInt32(Console.ReadLine());
-
-        //    if (numbers2 == 0)
-        //    {
-        //        Console.WriteLine("You have selected: \t" + stringList[0]);
-        //    }
-
-        //    if (numbers2 == 1)
-        //    {
-        //        Console.WriteLine("You have selected: \t" + stringList[1]);
-        //    }
-
-        //    else
-        //    {
-        //        Console.WriteLine("This index does not exist");
-        //    }
-
-
-        //}
-        //while (!isGuessed);
-        //Console.ReadLine();
 
 
 
     }
 }
-
