@@ -16,7 +16,7 @@ namespace assignmentMethod3
 
             TwoIntegers myMath = new TwoIntegers();
 
-            int result = myMath.Addition(x,y);
+            int result = myMath.Addition(x);
 
             Console.WriteLine(result);
 
